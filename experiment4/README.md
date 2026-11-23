@@ -1,10 +1,9 @@
 # Tokenizer Comparison
 **Objective** : The main objective of this experiment is to know the how tokenization is happening across different languages using tokenizer methods.
 ## Project folder structure:
-  1. **.env** -> used to keep the gemini API key.
-  2. **.gitkeep** -> used to avoid the pushing of .env content and other important information in to the repository.
-  3. **requirements.txt** -> it will install the required packages or libraries.
-  4. **tokenizer_comparison.py** -> It is the actual executable file which tells us about how tokenizer methods will generate the token ID's and counts.
+  1. **.gitkeep** -> used to avoid the pushing of .env content and other important information in to the repository.
+  2. **requirements.txt** -> it will install the required packages or libraries.
+  3. **tokenizer_comparison.py** -> It is the actual executable file which tells us about how tokenizer methods will generate the token ID's and counts.
 ## How it works??
   1. Activate the virtual environment.
   2. install the requirements using python -m pip install -r requirements.txt.
