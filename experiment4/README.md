@@ -14,6 +14,8 @@
 ## Expected output
 it will convert the text into tokens and token ID's . For each language it will perform three tokenizer methods.
 
-**BPE** -> combines frequently occuring letter pairs.
-**Word piece** -> searches for the most likelihood pair.
+**BPE** -> combines frequently occuring letter pairs.  
+
+**Word piece** -> searches for the most likelihood pair.  
+
 **sentence piece** -> splits the text into subwords without depending on spaces.
