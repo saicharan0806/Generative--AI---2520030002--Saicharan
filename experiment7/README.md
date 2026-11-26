@@ -1,4 +1,4 @@
-# WEEK-3 Next-Token Probabilities Using Hugging Face Transformers
+# Experiment 7 - Next-Token Probabilities Using Hugging Face Transformers
 
 **Objective:** Next-token probabilities: inspect logits and top-k candidates from a small open model with Hugging Face Transformers.
 
